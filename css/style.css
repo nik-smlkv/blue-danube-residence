@@ -15,7 +15,7 @@
 
 .logo {
 	max-width: 306px;
-	margin-bottom: 50px;
+	margin-bottom: 26px;
 }
 
 .formMaintance {
@@ -70,7 +70,7 @@
 	font-weight: 400;
 	color: var(--acc-main-green);
 	line-height: 110%;
-	margin-bottom: 60px;
+	margin-bottom: 36px;
 }
 
 .formBody {
@@ -492,6 +492,7 @@
 
 	.logo {
 		margin-bottom: 50px;
+		max-width: 230px;
 	}
 
 	.input_container_inner {
