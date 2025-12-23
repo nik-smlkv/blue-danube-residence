@@ -15,7 +15,11 @@
 
 .logo {
 	max-width: 306px;
-	margin-bottom: 26px;
+	margin-top: 0px;
+	align-self: start;
+	display: flex;
+	flex-direction: column;
+	flex: 0 1 90px;
 }
 
 .formMaintance {
@@ -136,6 +140,11 @@
 		font-size: clamp(2em, 3vw, 4em);
 	}
 
+	.logo {
+		display: block;
+		flex: 1 1 auto;
+	}
+
 	.formBody {
 		justify-content: center;
 	}
@@ -159,7 +168,7 @@
 	}
 
 	.subtitle {
-		margin-bottom: 2px;
+
 		font-size: clamp(1em, 3vw, 1.125em);
 	}
 
@@ -208,6 +217,10 @@
 
 	.contact {
 		font-size: 15px;
+	}
+
+	.subtitle {
+		margin-bottom: 22px;
 	}
 
 	.formBody {
