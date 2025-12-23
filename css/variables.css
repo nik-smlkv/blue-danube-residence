@@ -1,0 +1,22 @@
+:root {
+	/* Accent color */
+	--acc-main-green: #1C2F24;
+	--acc-main-green-btn: #07412E;
+	--acc-main-green-diff: #E3D0DB;
+	--acc-main-green-diff-btn: #F8BED1;
+	--acc-light-apr: #F4B8A1;
+	--acc-light-apr-tx: #FFD9C3;
+	/* Background color */
+	--bg-beige: #FAF7F2;
+	--bg-grn-dark: #1C2F24;
+	--header-bg-color: #00000033;
+	/* Text color */
+	--tx-wh: #FFFFFF;
+	--tx-bl: #1D1D1D;
+	--tx-bl-50: #1D1D1D80;
+	--tx-gray: #D9D9D9;
+	--tx-wh-60: #92929260;
+	--inpt-tx: #747474;
+	--inpt-br: #888888;
+	--header-h: 160px;
+}
