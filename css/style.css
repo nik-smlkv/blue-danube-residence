@@ -347,7 +347,7 @@
 }
 
 .input:not([value=""]):not(:focus)~.input_placeholder {
-	bottom: 17px;
+	bottom: 35px;
 	left: 0px;
 	font-size: 1.125em;
 }
@@ -471,7 +471,7 @@
 
 @media (max-width: 767.99px) {
 	.input:not([value=""]):not(:focus)~.input_placeholder {
-		bottom: 17px;
+		bottom: 35px;
 		left: 0px;
 		font-size: 15px;
 	}
